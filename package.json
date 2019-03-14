@@ -1,0 +1,22 @@
+{
+  "name": "@soheilpro/xformat",
+  "version": "1.0.0",
+  "description": "Simple templating for the command line.",
+  "main": "xformat.js",
+  "preferGlobal": true,
+  "bin": "./xformat.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soheilpro/xformat.git"
+  },
+  "author": "Soheil Rashidi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soheilpro/xformat/issues"
+  },
+  "homepage": "https://github.com/soheilpro/xformat",
+  "dependencies": {
+    "mustache": "3.0.1",
+    "yargs": "13.2.1"
+  }
+}
